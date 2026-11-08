@@ -1,0 +1,1 @@
+</main><footer><div><?=e(APP_NAME)?> <span>· Native PHP 8.3</span></div><div>No application activation, subscription, license-key or expiry lock is implemented.</div></footer><script src="assets/js/app.js"></script></body></html>
