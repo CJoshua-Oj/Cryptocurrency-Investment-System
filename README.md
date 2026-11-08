@@ -2,7 +2,7 @@
 
 ## 
 
-## \Project Overview
+## Project Overview
 
 
 
@@ -14,7 +14,7 @@ Technologies: PHP 8.3, MySQL, HTML, CSS, and JavaScript.
 
 
 
-## \Included Functionality
+## Included Functionality
 
 * User registration, authentication, profiles and activity logging
 * Administrator authentication and management dashboard
@@ -35,14 +35,14 @@ Technologies: PHP 8.3, MySQL, HTML, CSS, and JavaScript.
 
 
 
-## \Requirements
+## Requirements
 
 * PHP 8.3+
 * MySQL 5.7+/8.x or MariaDB
 * Apache/XAMPP
 * PDO and PDO\_MySQL
 
-## \Installation
+## Installation
 
 1. Copy the project into `C:\\xampp\\htdocs\\Cryptocurrency\_Investment\_System`.
 2. Start Apache and MySQL.
@@ -51,7 +51,7 @@ Technologies: PHP 8.3, MySQL, HTML, CSS, and JavaScript.
 5. Enter an administrator account and install the schema.
 6. Log in through `login.php`.
 
-## \Database Configuration
+## Database Configuration
 
 Default connection values are: host `127.0.0.1`, port `3306`, database `cryptocurrency\_investment`, user `root`, blank password. Set `CIS\_DB\_HOST`, `CIS\_DB\_PORT`, `CIS\_DB\_NAME`, `CIS\_DB\_USER` and `CIS\_DB\_PASS` as environment variables when required.
 
